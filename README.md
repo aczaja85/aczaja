@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex! 🤙
 
-I'm a Software Engineer with a focus on full-stack JavaScript development. Most recently, I have been working on Spyglass, an open-source kubernetes monitoring tool.  
+I'm a full-stack engineer based in Birmingham, Alabama.
 
 Connect with me: 
 
